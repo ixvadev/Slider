@@ -56,6 +56,8 @@ const dragStop = () => {
     autoSlide();
 }
 
+
+
 carousel.addEventListener("mousedown", dragStart);
 carousel.addEventListener("touchstart", dragStart);
 
