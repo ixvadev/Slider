@@ -6,9 +6,12 @@
   font-family: "Poppins", sans-serif;
 }
 
+body{
+   background: #f4a709;
+}
+
 .section-tuw {
   width: 100%;
-  background: #2fbe85;
   padding: 50px;
 }
 .section-tuw .wrappers__card {
