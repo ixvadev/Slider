@@ -57,7 +57,6 @@ const dragStop = () => {
 }
 
 
-
 carousel.addEventListener("mousedown", dragStart);
 carousel.addEventListener("touchstart", dragStart);
 
