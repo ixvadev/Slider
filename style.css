@@ -26,6 +26,7 @@ body{
   max-width: 1200px;
   position: relative;
 }
+
 .wrapper i {
   top: 50%;
   height: 44px;
@@ -41,6 +42,7 @@ body{
   transform: translateY(-50%);
   transition: transform 0.1s linear;
 }
+
 .wrapper i:active {
   transform: translateY(-50%) scale(0.9);
 }
@@ -54,6 +56,7 @@ body{
 .wrapper i:last-child {
   right: -22px;
 }
+
 .wrapper .carousel {
   font-size: 0;
   cursor: pointer;
