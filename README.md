@@ -1,1 +1,1 @@
-<h3 class="text-ceneter">Slider</h3>
+<h3 class="text-ceneter">Slider img</h3>
